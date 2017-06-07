@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudyGoogleMaptt</string>
+    <string name="title_activity_maps">Map</string>
+    
+    <string-array name="arrayType">
+        <item>MAP_TYPE_NORMAL</item>
+        <item>MAP_TYPE_SATELLITE</item>
+        <item>MAP_TYPE_TERRIAIN</item>
+        <item>MAP_TYPE_HYBRID</item>
+        <item>MAP_TYPE_NONE</item>
+    </string-array>
+</resources>
